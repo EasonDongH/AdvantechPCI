@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\bin\Debug\AdvantechPCIDemo.exe
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\bin\Debug\AdvantechPCIDemo.pdb
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.FrmMain.resources
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.Properties.Resources.resources
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.exe
+C:\Users\admin\Desktop\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.pdb
+C:\2Study\CSharpWorkSpace\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.exe
+C:\2Study\CSharpWorkSpace\AdvantechPCIDemo\AdvantechPCIDemo\AdvantechPCIDemo\obj\Debug\AdvantechPCIDemo.pdb
